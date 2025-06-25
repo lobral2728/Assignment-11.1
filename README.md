@@ -58,7 +58,7 @@ The model gives an estimated price range that reflects what similar cars sold fo
 ## 📅 View the Notebook
 
 To see the full pricing analysis:  
-👉 [Click here to open the notebook](./used_car_modeling.ipynb)
+👉 [Click here to open the notebook](./prompt_II.ipynb)
 
 ---
 
